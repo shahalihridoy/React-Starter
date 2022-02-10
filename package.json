@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.5.0",
     "firebase": "^7.0.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-material-ui-form-validator": "^2.0.9",
